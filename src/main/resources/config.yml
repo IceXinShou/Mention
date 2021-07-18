@@ -9,7 +9,7 @@
 #    XX     XX        II       NNN        NN   N  SSS        SSSS     HH        HH       OO      OO       UU       UU
 #XXXXX       XX  IIIIIIIIIIIIINNNN         NNNNN  SSSSSSSSSSSSS      HHH        HH        OOOOO00OOOOUUUUUUUUUUUUUUU
 settings:
-  language: EN_US
+  language: ZH-TW
 
 Reload-Message: "&aPlugin Reloaded!!!"
 No-Permissions: "&cYou don't have permissions!"
