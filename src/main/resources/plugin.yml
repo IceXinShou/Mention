@@ -1,0 +1,10 @@
+name: Mention
+version: 1.0-SNAPSHOT
+main: xs.Main
+api-version: 1.16
+authors: [ IceXinShou ]
+description: A Auto Trash Can Plugin
+website: www.cloudtown.tw
+commands:
+  mention:
+    description: hi

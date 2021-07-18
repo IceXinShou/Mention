@@ -1,0 +1,15 @@
+# XXXX        XXXXXIIIIIIIIIIII  NN            NNNN      SSSSSSSSSHHHHHH       HHHHHHHOOOOOOOOO00      UU             UU
+#   XX       XX       II         N NN          NNN     SSS            HH        HH       OO     OO     UU             UU
+#     XX    XX        II         N  NN         N      SSSS            HH        HH     OO         OO   UU             UU
+#      XX  XX         II         N   NN        N        SSSSS         HH        HH    OO           OO  UU             UU
+#       XXXX          II         N    NN       N          SSSSS       HHHHHHHHHHHH    OO           OO  UU             UU
+#       XXX           II         N     NN      N             SSSSS    HHHHHHHHHHHH    OO           OO  UU             UU
+#      XX XX          II         N      NN     N              SSSSS   HH        HH    OO           OO  UUU           UUU
+#     XX   XX         II         N       NN    N  SS          SSSS    HH        HH     OO         OO    UUU         UUU
+#    XX     XX        II       NNN        NN   N  SSS        SSSS     HH        HH       OO      OO       UU       UU
+#XXXXX       XX  IIIIIIIIIIIIINNNN         NNNNN  SSSSSSSSSSSSS      HHH        HH        OOOOO00OOOOUUUUUUUUUUUUUUU
+settings:
+  language: EN_US
+
+Reload-Message: "&aPlugin Reloaded!!!"
+No-Permissions: "&cYou don't have permissions!"
